@@ -13,7 +13,7 @@ Tùy theo thực tế và nhu cầu sử dụng, cấu hình và các thông s�
 
 * Máy chủ hiện tại sử dụng - Cài đặt webserver và chạy máy chấm.
    
-✅ OS: Ubuntu 22.04 Server
+✅ OS: Ubuntu Server 22.04
 
 ✅ Storage: 100 GB SSD
 
