@@ -1,0 +1,6 @@
+archive: HelloWorld.zip
+checker: standard
+test_cases:
+- in: 1.in
+  out: 1.out
+  points: 1

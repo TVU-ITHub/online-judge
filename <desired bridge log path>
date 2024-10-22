@@ -1,0 +1,2239 @@
+INFO 2024-10-19 16:29:41,791 judge_handler Judge connected from: ('127.0.0.1', 60226)
+INFO 2024-10-19 16:29:41,803 judge_handler Judge authenticated: ('127.0.0.1', 60226) (judge01)
+INFO 2024-10-19 16:29:41,803 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 16:35:51,203 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:35:51,208 judge_handler judge01: Updated 0 problems
+INFO 2024-10-19 16:35:51,209 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:35:51,215 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:35:51,476 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:35:51,478 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:35:51,478 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:35:51,480 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:31,345 judge_list Free judges: 1
+INFO 2024-10-19 16:36:31,345 judge_list Dispatched submission 1 to: judge01
+INFO 2024-10-19 16:36:31,358 judge_handler Submission acknowledged: 1
+INFO 2024-10-19 16:36:31,381 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:31,383 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:31,384 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:31,385 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:31,671 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:31,673 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:31,675 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:31,676 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:31,680 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:31,682 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:34,279 judge_handler judge01: Submission generated compiler messages: 1
+INFO 2024-10-19 16:36:34,282 judge_handler judge01: Grading has begun on: 1
+INFO 2024-10-19 16:36:34,295 judge_handler judge01: 1 test case(s) completed on: 1
+INFO 2024-10-19 16:36:34,302 judge_handler judge01: Grading has ended on: 1
+INFO 2024-10-19 16:36:34,302 judge_list Judge available after grading 1: judge01
+INFO 2024-10-19 16:36:34,328 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:34,330 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:40,418 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:40,420 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:40,421 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:40,423 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:36:40,424 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:36:40,425 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:43:36,676 daemon Exiting due to SIGTERM
+INFO 2024-10-19 16:43:36,699 judge_list Minimum tier changed from 1 to None
+INFO 2024-10-19 16:52:08,382 judge_handler Judge connected from: ('127.0.0.1', 34384)
+INFO 2024-10-19 16:52:08,387 judge_handler Judge authenticated: ('127.0.0.1', 34384) (judge01)
+INFO 2024-10-19 16:52:08,387 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 16:52:47,673 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:47,676 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:47,677 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:47,678 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:47,679 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:47,680 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:51,891 judge_list Free judges: 1
+INFO 2024-10-19 16:52:51,891 judge_list Dispatched submission 2 to: judge01
+INFO 2024-10-19 16:52:51,902 judge_handler Submission acknowledged: 2
+INFO 2024-10-19 16:52:51,920 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:51,922 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:51,924 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:51,927 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:52,234 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:52,235 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:52,236 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:52,237 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:52,239 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:52,241 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:52:55,200 judge_handler judge01: Submission generated compiler messages: 2
+INFO 2024-10-19 16:52:55,203 judge_handler judge01: Grading has begun on: 2
+INFO 2024-10-19 16:52:55,219 judge_handler judge01: 1 test case(s) completed on: 2
+INFO 2024-10-19 16:52:55,232 judge_handler judge01: Grading has ended on: 2
+INFO 2024-10-19 16:52:55,232 judge_list Judge available after grading 2: judge01
+INFO 2024-10-19 16:52:55,252 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:52:55,253 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:53:29,302 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:53:29,304 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:53:29,306 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:53:29,307 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:53:29,308 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:53:29,309 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:53:35,199 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:53:35,201 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:56:26,789 daemon Exiting due to SIGTERM
+INFO 2024-10-19 16:56:26,819 judge_list Minimum tier changed from 1 to None
+INFO 2024-10-19 16:57:32,910 judge_handler Judge connected from: ('127.0.0.1', 49900)
+INFO 2024-10-19 16:57:32,918 judge_handler Judge authenticated: ('127.0.0.1', 49900) (judge01)
+INFO 2024-10-19 16:57:32,918 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 16:57:45,850 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:45,853 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:45,854 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:45,856 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:45,857 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:45,859 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:45,860 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:45,861 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,164 judge_list Free judges: 1
+INFO 2024-10-19 16:57:51,164 judge_list Dispatched submission 3 to: judge01
+INFO 2024-10-19 16:57:51,171 judge_handler Submission acknowledged: 3
+INFO 2024-10-19 16:57:51,186 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,187 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,188 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,190 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,191 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,192 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,443 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,445 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,446 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,447 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:51,448 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:51,449 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:57:54,086 judge_handler judge01: Submission generated compiler messages: 3
+INFO 2024-10-19 16:57:54,090 judge_handler judge01: Grading has begun on: 3
+INFO 2024-10-19 16:57:54,101 judge_handler judge01: 1 test case(s) completed on: 3
+INFO 2024-10-19 16:57:54,107 judge_handler judge01: Grading has ended on: 3
+INFO 2024-10-19 16:57:54,107 judge_list Judge available after grading 3: judge01
+INFO 2024-10-19 16:57:54,150 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:57:54,152 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:58:45,712 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:58:45,715 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:58:45,716 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:58:45,717 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 16:58:45,719 judge_handler judge01: Updating problem list
+INFO 2024-10-19 16:58:45,720 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:18:40,520 daemon Exiting due to SIGTERM
+INFO 2024-10-19 17:18:40,542 judge_list Minimum tier changed from 1 to None
+INFO 2024-10-19 17:19:44,227 daemon Exiting due to SIGINT
+INFO 2024-10-19 17:21:28,195 judge_handler Judge connected from: ('127.0.0.1', 37700)
+INFO 2024-10-19 17:21:28,205 judge_handler Judge authenticated: ('127.0.0.1', 37700) (judge01)
+INFO 2024-10-19 17:21:28,205 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 17:21:45,015 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:45,020 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:45,021 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:45,023 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:45,024 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:45,025 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:45,027 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:45,028 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,565 judge_list Free judges: 1
+INFO 2024-10-19 17:21:51,566 judge_list Dispatched submission 4 to: judge01
+INFO 2024-10-19 17:21:51,578 judge_handler Submission acknowledged: 4
+INFO 2024-10-19 17:21:51,600 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,601 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,602 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,603 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,927 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,929 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,930 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,931 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,932 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,933 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:51,934 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:51,935 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:21:54,540 judge_handler judge01: Submission generated compiler messages: 4
+INFO 2024-10-19 17:21:54,545 judge_handler judge01: Grading has begun on: 4
+INFO 2024-10-19 17:21:54,557 judge_handler judge01: 1 test case(s) completed on: 4
+INFO 2024-10-19 17:21:54,566 judge_handler judge01: Grading has ended on: 4
+INFO 2024-10-19 17:21:54,566 judge_list Judge available after grading 4: judge01
+INFO 2024-10-19 17:21:54,588 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:21:54,589 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:22:08,287 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:22:08,289 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:22:08,291 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:22:08,293 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:22:08,294 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:22:08,295 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:26:59,150 daemon Exiting due to SIGINT
+INFO 2024-10-19 17:27:13,172 judge_handler Judge connected from: ('127.0.0.1', 37702)
+INFO 2024-10-19 17:27:13,177 judge_handler Judge authenticated: ('127.0.0.1', 37702) (judge01)
+INFO 2024-10-19 17:27:13,177 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 17:29:59,610 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:29:59,614 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:29:59,616 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:29:59,618 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:03,002 judge_list Free judges: 1
+INFO 2024-10-19 17:30:03,003 judge_list Dispatched submission 5 to: judge01
+INFO 2024-10-19 17:30:03,019 judge_handler Submission acknowledged: 5
+INFO 2024-10-19 17:30:03,088 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:03,095 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:03,096 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:03,123 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:03,384 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:03,419 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:06,654 judge_handler judge01: Submission generated compiler messages: 5
+INFO 2024-10-19 17:30:06,657 judge_handler judge01: Grading has begun on: 5
+INFO 2024-10-19 17:30:06,667 judge_handler judge01: 1 test case(s) completed on: 5
+INFO 2024-10-19 17:30:06,690 judge_handler judge01: Grading has ended on: 5
+INFO 2024-10-19 17:30:06,690 judge_list Judge available after grading 5: judge01
+INFO 2024-10-19 17:30:06,719 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:06,722 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:29,670 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:29,673 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:29,675 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:29,676 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:30:29,677 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:30:29,679 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:35:24,048 judge_list Minimum tier changed from 1 to None
+INFO 2024-10-19 17:35:29,234 daemon Exiting due to SIGINT
+INFO 2024-10-19 17:44:48,642 judge_handler Judge connected from: ('127.0.0.1', 47618)
+INFO 2024-10-19 17:44:48,651 judge_handler Judge authenticated: ('127.0.0.1', 47618) (judge01)
+INFO 2024-10-19 17:44:48,651 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 17:44:54,560 judge_list Free judges: 1
+INFO 2024-10-19 17:44:54,561 judge_list Dispatched submission 6 to: judge01
+INFO 2024-10-19 17:44:54,572 judge_handler Submission acknowledged: 6
+INFO 2024-10-19 17:44:54,584 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:44:54,586 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:44:54,587 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:44:54,588 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:44:54,701 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:44:54,702 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:44:54,704 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:44:54,705 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:44:57,420 judge_handler judge01: Submission generated compiler messages: 6
+INFO 2024-10-19 17:44:57,424 judge_handler judge01: Grading has begun on: 6
+INFO 2024-10-19 17:44:57,433 judge_handler judge01: 1 test case(s) completed on: 6
+INFO 2024-10-19 17:44:57,441 judge_handler judge01: Grading has ended on: 6
+INFO 2024-10-19 17:44:57,442 judge_list Judge available after grading 6: judge01
+INFO 2024-10-19 17:44:57,467 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:44:57,468 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:22,390 judge_list Free judges: 1
+INFO 2024-10-19 17:45:22,390 judge_list Dispatched submission 7 to: judge01
+INFO 2024-10-19 17:45:22,397 judge_handler Submission acknowledged: 7
+INFO 2024-10-19 17:45:22,411 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:45:22,413 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:22,414 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:45:22,416 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:22,550 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:45:22,552 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:22,555 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:45:22,556 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:25,181 judge_handler judge01: Submission generated compiler messages: 7
+INFO 2024-10-19 17:45:25,188 judge_handler judge01: Grading has begun on: 7
+INFO 2024-10-19 17:45:25,197 judge_handler judge01: 1 test case(s) completed on: 7
+INFO 2024-10-19 17:45:25,205 judge_handler judge01: Grading has ended on: 7
+INFO 2024-10-19 17:45:25,206 judge_list Judge available after grading 7: judge01
+INFO 2024-10-19 17:45:25,226 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:45:25,228 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:45:36,637 judge_list Minimum tier changed from 1 to None
+INFO 2024-10-19 17:45:36,643 judge_handler Judge disconnected from: ('127.0.0.1', 47618) with name judge01
+INFO 2024-10-19 17:45:51,709 judge_handler Judge connected from: ('127.0.0.1', 47620)
+INFO 2024-10-19 17:45:51,718 judge_handler Judge authenticated: ('127.0.0.1', 47620) (judge01)
+INFO 2024-10-19 17:45:51,718 judge_list Minimum tier changed from None to 1
+INFO 2024-10-19 17:46:06,696 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:06,698 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:06,699 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:06,700 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:06,701 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:06,702 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:11,737 judge_list Free judges: 1
+INFO 2024-10-19 17:46:11,738 judge_list Dispatched submission 8 to: judge01
+INFO 2024-10-19 17:46:11,748 judge_handler Submission acknowledged: 8
+INFO 2024-10-19 17:46:11,769 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:11,771 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:11,783 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:11,786 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:12,049 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:12,051 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:12,052 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:12,054 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:12,056 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:12,058 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:46:14,844 judge_handler judge01: Submission generated compiler messages: 8
+INFO 2024-10-19 17:46:14,847 judge_handler judge01: Grading has begun on: 8
+INFO 2024-10-19 17:46:14,855 judge_handler judge01: 1 test case(s) completed on: 8
+INFO 2024-10-19 17:46:14,862 judge_handler judge01: Grading has ended on: 8
+INFO 2024-10-19 17:46:14,862 judge_list Judge available after grading 8: judge01
+INFO 2024-10-19 17:46:14,883 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:46:14,884 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:37,779 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:37,783 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:37,786 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:37,788 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:37,789 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:37,790 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,657 judge_list Free judges: 1
+INFO 2024-10-19 17:47:41,657 judge_list Dispatched submission 9 to: judge01
+INFO 2024-10-19 17:47:41,667 judge_handler Submission acknowledged: 9
+INFO 2024-10-19 17:47:41,683 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,684 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,685 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,687 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,951 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,955 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,956 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,958 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,958 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,960 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:41,960 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:41,962 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:47:44,831 judge_handler judge01: Submission generated compiler messages: 9
+INFO 2024-10-19 17:47:44,834 judge_handler judge01: Grading has begun on: 9
+INFO 2024-10-19 17:47:44,859 judge_handler judge01: 1 test case(s) completed on: 9
+INFO 2024-10-19 17:47:44,865 judge_handler judge01: Grading has ended on: 9
+INFO 2024-10-19 17:47:44,866 judge_list Judge available after grading 9: judge01
+INFO 2024-10-19 17:47:44,882 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:47:44,883 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:48:25,925 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:48:25,930 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:48:25,933 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:48:25,936 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:48:25,938 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:48:25,940 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:39,552 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:39,556 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:39,557 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:39,559 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:39,560 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:39,561 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:43,501 judge_list Free judges: 1
+INFO 2024-10-19 17:49:43,502 judge_list Dispatched submission 10 to: judge01
+INFO 2024-10-19 17:49:43,510 judge_handler Submission acknowledged: 10
+INFO 2024-10-19 17:49:43,521 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:43,523 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:43,524 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:43,525 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:43,780 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:43,783 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:43,785 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:43,787 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:46,445 judge_handler judge01: Submission generated compiler messages: 10
+INFO 2024-10-19 17:49:46,449 judge_handler judge01: Grading has begun on: 10
+INFO 2024-10-19 17:49:46,463 judge_handler judge01: 1 test case(s) completed on: 10
+INFO 2024-10-19 17:49:46,472 judge_handler judge01: Grading has ended on: 10
+INFO 2024-10-19 17:49:46,473 judge_list Judge available after grading 10: judge01
+INFO 2024-10-19 17:49:46,512 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:46,514 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:46,577 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:46,579 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:46,581 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:46,582 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:46,583 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:46,585 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:47,312 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:47,316 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:47,319 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:47,321 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:49:47,323 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:49:47,324 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:51,512 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:51,516 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:51,517 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:51,519 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:51,521 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:51,522 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:55,939 judge_list Free judges: 1
+INFO 2024-10-19 17:53:55,939 judge_list Dispatched submission 11 to: judge01
+INFO 2024-10-19 17:53:55,948 judge_handler Submission acknowledged: 11
+INFO 2024-10-19 17:53:55,959 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:55,961 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:55,962 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:55,963 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:55,963 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:55,965 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:56,087 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:56,089 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:56,091 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:56,092 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 17:53:58,969 judge_handler judge01: Submission generated compiler messages: 11
+INFO 2024-10-19 17:53:58,973 judge_handler judge01: Grading has begun on: 11
+INFO 2024-10-19 17:53:58,991 judge_handler judge01: 1 test case(s) completed on: 11
+INFO 2024-10-19 17:53:58,999 judge_handler judge01: Grading has ended on: 11
+INFO 2024-10-19 17:53:58,999 judge_list Judge available after grading 11: judge01
+INFO 2024-10-19 17:53:59,023 judge_handler judge01: Updating problem list
+INFO 2024-10-19 17:53:59,025 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:25,406 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:25,410 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:25,411 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:25,412 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:25,413 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:25,414 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:29,268 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:29,271 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:29,274 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:29,277 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:29,278 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:29,280 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:29,281 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:29,282 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:33,362 judge_list Free judges: 1
+INFO 2024-10-19 18:01:33,363 judge_list Dispatched submission 12 to: judge01
+INFO 2024-10-19 18:01:33,370 judge_handler Submission acknowledged: 12
+INFO 2024-10-19 18:01:33,385 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:33,387 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:33,388 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:33,389 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:33,495 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:33,497 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:33,500 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:33,501 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:33,505 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:33,507 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:36,212 judge_handler judge01: Submission generated compiler messages: 12
+INFO 2024-10-19 18:01:36,221 judge_handler judge01: Grading has begun on: 12
+INFO 2024-10-19 18:01:36,246 judge_handler judge01: 1 test case(s) completed on: 12
+INFO 2024-10-19 18:01:36,257 judge_handler judge01: Grading has ended on: 12
+INFO 2024-10-19 18:01:36,258 judge_list Judge available after grading 12: judge01
+INFO 2024-10-19 18:01:36,280 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:36,282 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:43,382 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:43,383 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:43,384 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:43,385 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:43,386 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:43,387 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:47,310 judge_list Free judges: 1
+INFO 2024-10-19 18:01:47,310 judge_list Dispatched submission 13 to: judge01
+INFO 2024-10-19 18:01:47,319 judge_handler Submission acknowledged: 13
+INFO 2024-10-19 18:01:47,329 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:47,330 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:47,331 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:47,332 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:47,451 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:47,453 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:47,454 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:47,456 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:47,456 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:47,458 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:01:49,949 judge_handler judge01: Submission generated compiler messages: 13
+INFO 2024-10-19 18:01:49,952 judge_handler judge01: Grading has begun on: 13
+INFO 2024-10-19 18:01:49,963 judge_handler judge01: 1 test case(s) completed on: 13
+INFO 2024-10-19 18:01:49,971 judge_handler judge01: Grading has ended on: 13
+INFO 2024-10-19 18:01:49,971 judge_list Judge available after grading 13: judge01
+INFO 2024-10-19 18:01:49,990 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:01:49,992 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:09,751 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:09,754 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:09,755 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:09,757 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:12,475 judge_list Free judges: 1
+INFO 2024-10-19 18:03:12,475 judge_list Dispatched submission 14 to: judge01
+INFO 2024-10-19 18:03:12,483 judge_handler Submission acknowledged: 14
+INFO 2024-10-19 18:03:12,493 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:12,495 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:12,495 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:12,497 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:12,626 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:12,628 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:12,631 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:12,632 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:15,357 judge_handler judge01: Submission generated compiler messages: 14
+INFO 2024-10-19 18:03:15,360 judge_handler judge01: Grading has begun on: 14
+INFO 2024-10-19 18:03:15,373 judge_handler judge01: 1 test case(s) completed on: 14
+INFO 2024-10-19 18:03:15,381 judge_handler judge01: Grading has ended on: 14
+INFO 2024-10-19 18:03:15,382 judge_list Judge available after grading 14: judge01
+INFO 2024-10-19 18:03:15,407 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:15,409 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:34,708 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:34,711 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:34,712 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:34,714 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:03:34,716 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:03:34,718 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:42,215 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:42,219 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:42,220 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:42,222 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:42,224 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:42,225 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:46,149 judge_list Free judges: 1
+INFO 2024-10-19 18:04:46,149 judge_list Dispatched submission 15 to: judge01
+INFO 2024-10-19 18:04:46,157 judge_handler Submission acknowledged: 15
+INFO 2024-10-19 18:04:46,170 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:46,173 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:46,174 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:46,175 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:46,286 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:46,287 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:46,290 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:46,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:46,293 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:46,294 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:04:49,001 judge_handler judge01: Submission generated compiler messages: 15
+INFO 2024-10-19 18:04:49,004 judge_handler judge01: Grading has begun on: 15
+INFO 2024-10-19 18:04:49,014 judge_handler judge01: 1 test case(s) completed on: 15
+INFO 2024-10-19 18:04:49,020 judge_handler judge01: Grading has ended on: 15
+INFO 2024-10-19 18:04:49,020 judge_list Judge available after grading 15: judge01
+INFO 2024-10-19 18:04:49,044 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:04:49,046 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:02,115 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:02,117 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:02,119 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:02,121 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:08,242 judge_list Free judges: 1
+INFO 2024-10-19 18:05:08,242 judge_list Dispatched submission 16 to: judge01
+INFO 2024-10-19 18:05:08,254 judge_handler Submission acknowledged: 16
+INFO 2024-10-19 18:05:08,268 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:08,269 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:08,270 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:08,272 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:08,388 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:08,390 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:08,393 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:08,395 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:08,400 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:08,401 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:10,933 judge_handler judge01: Submission generated compiler messages: 16
+INFO 2024-10-19 18:05:10,935 judge_handler judge01: Grading has begun on: 16
+INFO 2024-10-19 18:05:10,950 judge_handler judge01: 1 test case(s) completed on: 16
+INFO 2024-10-19 18:05:10,957 judge_handler judge01: Grading has ended on: 16
+INFO 2024-10-19 18:05:10,958 judge_list Judge available after grading 16: judge01
+INFO 2024-10-19 18:05:10,975 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:10,977 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:28,503 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:28,505 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:28,506 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:28,507 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:28,508 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:28,509 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:33,409 judge_list Free judges: 1
+INFO 2024-10-19 18:05:33,409 judge_list Dispatched submission 17 to: judge01
+INFO 2024-10-19 18:05:33,419 judge_handler Submission acknowledged: 17
+INFO 2024-10-19 18:05:33,429 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:33,431 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:33,545 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:33,547 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:33,548 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:33,550 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:05:36,147 judge_handler judge01: Submission generated compiler messages: 17
+INFO 2024-10-19 18:05:36,151 judge_handler judge01: Grading has begun on: 17
+INFO 2024-10-19 18:05:36,162 judge_handler judge01: 1 test case(s) completed on: 17
+INFO 2024-10-19 18:05:36,168 judge_handler judge01: Grading has ended on: 17
+INFO 2024-10-19 18:05:36,169 judge_list Judge available after grading 17: judge01
+INFO 2024-10-19 18:05:36,189 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:05:36,191 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:00,744 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:00,746 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:00,747 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:00,749 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:00,750 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:00,751 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:00,753 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:00,754 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:04,448 judge_list Free judges: 1
+INFO 2024-10-19 18:06:04,448 judge_list Dispatched submission 18 to: judge01
+INFO 2024-10-19 18:06:04,458 judge_handler Submission acknowledged: 18
+INFO 2024-10-19 18:06:04,473 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:04,475 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:04,476 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:04,477 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:04,611 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:04,613 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:04,614 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:04,616 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:06:07,197 judge_handler judge01: Submission generated compiler messages: 18
+INFO 2024-10-19 18:06:07,208 judge_handler judge01: Grading has begun on: 18
+INFO 2024-10-19 18:06:07,223 judge_handler judge01: 1 test case(s) completed on: 18
+INFO 2024-10-19 18:06:07,231 judge_handler judge01: Grading has ended on: 18
+INFO 2024-10-19 18:06:07,232 judge_list Judge available after grading 18: judge01
+INFO 2024-10-19 18:06:07,249 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:06:07,251 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:08,979 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:08,981 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:08,982 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:08,984 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:08,986 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:08,987 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:12,691 judge_list Free judges: 1
+INFO 2024-10-19 18:07:12,692 judge_list Dispatched submission 19 to: judge01
+INFO 2024-10-19 18:07:12,699 judge_handler Submission acknowledged: 19
+INFO 2024-10-19 18:07:12,710 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:12,711 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:12,712 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:12,713 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:12,836 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:12,838 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:12,839 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:12,841 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:12,851 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:12,856 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:15,612 judge_handler judge01: Submission generated compiler messages: 19
+INFO 2024-10-19 18:07:15,615 judge_handler judge01: Grading has begun on: 19
+INFO 2024-10-19 18:07:15,628 judge_handler judge01: 1 test case(s) completed on: 19
+INFO 2024-10-19 18:07:15,635 judge_handler judge01: Grading has ended on: 19
+INFO 2024-10-19 18:07:15,635 judge_list Judge available after grading 19: judge01
+INFO 2024-10-19 18:07:15,653 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:15,654 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:47,407 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:47,411 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:47,413 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:47,415 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:50,937 judge_list Free judges: 1
+INFO 2024-10-19 18:07:50,937 judge_list Dispatched submission 20 to: judge01
+INFO 2024-10-19 18:07:50,950 judge_handler Submission acknowledged: 20
+INFO 2024-10-19 18:07:50,968 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:50,970 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:50,971 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:50,972 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:51,221 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:51,223 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:51,225 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:51,226 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:51,227 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:51,228 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:07:53,842 judge_handler judge01: Submission generated compiler messages: 20
+INFO 2024-10-19 18:07:53,848 judge_handler judge01: Grading has begun on: 20
+INFO 2024-10-19 18:07:53,857 judge_handler judge01: 1 test case(s) completed on: 20
+INFO 2024-10-19 18:07:53,862 judge_handler judge01: Grading has ended on: 20
+INFO 2024-10-19 18:07:53,863 judge_list Judge available after grading 20: judge01
+INFO 2024-10-19 18:07:53,881 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:07:53,882 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:08:38,882 judge_list Free judges: 1
+INFO 2024-10-19 18:08:38,883 judge_list Dispatched submission 21 to: judge01
+INFO 2024-10-19 18:08:38,898 judge_handler Submission acknowledged: 21
+INFO 2024-10-19 18:08:38,915 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:08:38,918 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:08:38,919 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:08:38,921 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:08:39,220 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:08:39,223 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:08:39,225 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:08:39,228 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:08:41,936 judge_handler judge01: Submission generated compiler messages: 21
+INFO 2024-10-19 18:08:41,939 judge_handler judge01: Grading has begun on: 21
+INFO 2024-10-19 18:08:41,952 judge_handler judge01: 1 test case(s) completed on: 21
+INFO 2024-10-19 18:08:41,961 judge_handler judge01: Grading has ended on: 21
+INFO 2024-10-19 18:08:41,961 judge_list Judge available after grading 21: judge01
+INFO 2024-10-19 18:08:41,982 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:08:41,984 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:27,159 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:27,161 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:27,163 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:27,164 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,169 judge_list Free judges: 1
+INFO 2024-10-19 18:09:35,169 judge_list Dispatched submission 22 to: judge01
+INFO 2024-10-19 18:09:35,178 judge_handler Submission acknowledged: 22
+INFO 2024-10-19 18:09:35,194 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,196 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,197 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,199 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,459 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,462 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,463 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,465 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,467 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,469 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:35,470 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:35,471 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,085 judge_handler judge01: Submission generated compiler messages: 22
+INFO 2024-10-19 18:09:38,089 judge_handler judge01: Grading has begun on: 22
+INFO 2024-10-19 18:09:38,100 judge_handler judge01: 1 test case(s) completed on: 22
+INFO 2024-10-19 18:09:38,109 judge_handler judge01: Grading has ended on: 22
+INFO 2024-10-19 18:09:38,110 judge_list Judge available after grading 22: judge01
+INFO 2024-10-19 18:09:38,134 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,136 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,207 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,209 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,210 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,211 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,212 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,214 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,930 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,932 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,933 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,935 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:09:38,936 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:09:38,937 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:08,377 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:08,379 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:33,130 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:33,135 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:33,136 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:33,138 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:33,147 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:33,149 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:33,150 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:33,151 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:33,439 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:33,441 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:39,996 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:40,003 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:40,005 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:40,007 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:40,009 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:40,011 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,308 judge_list Free judges: 1
+INFO 2024-10-19 18:11:44,308 judge_list Dispatched submission 23 to: judge01
+INFO 2024-10-19 18:11:44,320 judge_handler Submission acknowledged: 23
+INFO 2024-10-19 18:11:44,333 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,335 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,337 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,338 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,615 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,617 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,617 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,619 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,624 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,625 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:44,630 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:44,631 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:47,320 judge_handler judge01: Submission generated compiler messages: 23
+INFO 2024-10-19 18:11:47,324 judge_handler judge01: Grading has begun on: 23
+INFO 2024-10-19 18:11:47,433 judge_handler judge01: 7 test case(s) completed on: 23
+INFO 2024-10-19 18:11:47,444 judge_handler judge01: Grading has ended on: 23
+INFO 2024-10-19 18:11:47,445 judge_list Judge available after grading 23: judge01
+INFO 2024-10-19 18:11:47,466 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:47,467 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:47,468 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:47,469 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:47,470 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:47,471 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:47,472 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:47,473 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:48,201 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:48,204 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:48,206 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:48,208 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:11:48,209 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:11:48,210 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:34,899 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:34,902 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:42,286 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:42,288 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:42,313 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:42,314 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:42,315 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:42,316 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:42,592 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:42,594 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:42,595 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:42,597 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:48,023 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:48,025 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:48,026 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:48,027 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:48,028 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:48,029 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:48,032 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:48,034 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:51,700 judge_list Free judges: 1
+INFO 2024-10-19 18:13:51,700 judge_list Dispatched submission 24 to: judge01
+INFO 2024-10-19 18:13:51,709 judge_handler Submission acknowledged: 24
+INFO 2024-10-19 18:13:51,719 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:51,721 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:51,726 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:51,728 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:52,016 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:52,019 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:52,022 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:52,024 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:54,524 judge_handler judge01: Submission generated compiler messages: 24
+INFO 2024-10-19 18:13:54,528 judge_handler judge01: Grading has begun on: 24
+INFO 2024-10-19 18:13:54,658 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:54,660 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:54,668 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:54,670 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:54,672 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:54,674 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:54,691 judge_handler judge01: 11 test case(s) completed on: 24
+INFO 2024-10-19 18:13:54,733 judge_handler judge01: 3 test case(s) completed on: 24
+INFO 2024-10-19 18:13:54,740 judge_handler judge01: Grading has ended on: 24
+INFO 2024-10-19 18:13:54,741 judge_list Judge available after grading 24: judge01
+INFO 2024-10-19 18:13:54,773 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:54,775 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:55,453 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:55,455 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:55,456 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:55,458 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:55,461 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:55,464 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:13:55,465 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:13:55,467 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:30,726 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:30,731 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:30,732 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:30,734 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:30,736 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:30,738 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:36,497 judge_list Free judges: 1
+INFO 2024-10-19 18:16:36,498 judge_list Dispatched submission 25 to: judge01
+INFO 2024-10-19 18:16:36,513 judge_handler Submission acknowledged: 25
+INFO 2024-10-19 18:16:36,526 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:36,528 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:36,530 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:36,532 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:36,784 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:36,785 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:36,789 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:36,791 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:36,792 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:36,794 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:39,262 judge_handler judge01: Submission generated compiler messages: 25
+INFO 2024-10-19 18:16:39,267 judge_handler judge01: Grading has begun on: 25
+INFO 2024-10-19 18:16:39,397 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:39,399 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:39,404 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:39,407 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:39,409 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:39,411 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:39,441 judge_handler judge01: 14 test case(s) completed on: 25
+INFO 2024-10-19 18:16:39,452 judge_handler judge01: Grading has ended on: 25
+INFO 2024-10-19 18:16:39,453 judge_list Judge available after grading 25: judge01
+INFO 2024-10-19 18:16:39,471 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:39,473 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:40,184 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:40,185 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:40,187 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:40,189 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:16:40,191 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:16:40,193 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:42,183 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:42,187 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:42,189 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:42,190 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:42,191 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:42,193 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,333 judge_list Free judges: 1
+INFO 2024-10-19 18:22:46,334 judge_list Dispatched submission 26 to: judge01
+INFO 2024-10-19 18:22:46,346 judge_handler Submission acknowledged: 26
+INFO 2024-10-19 18:22:46,365 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,368 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,369 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,371 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,478 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,480 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,481 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,483 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,484 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,486 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:46,489 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:46,491 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:49,227 judge_handler judge01: Submission generated compiler messages: 26
+INFO 2024-10-19 18:22:49,233 judge_handler judge01: Grading has begun on: 26
+INFO 2024-10-19 18:22:49,274 judge_handler judge01: 4 test case(s) completed on: 26
+INFO 2024-10-19 18:22:49,363 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:49,366 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:49,368 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:49,369 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:49,371 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:49,373 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:49,412 judge_handler judge01: 10 test case(s) completed on: 26
+INFO 2024-10-19 18:22:49,421 judge_handler judge01: Grading has ended on: 26
+INFO 2024-10-19 18:22:49,422 judge_list Judge available after grading 26: judge01
+INFO 2024-10-19 18:22:49,447 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:49,448 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:50,031 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:50,033 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:50,038 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:50,040 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:22:50,042 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:22:50,043 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:45,124 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:45,127 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:45,128 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:45,129 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:45,133 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:45,135 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:51,332 judge_list Free judges: 1
+INFO 2024-10-19 18:25:51,333 judge_list Dispatched submission 27 to: judge01
+INFO 2024-10-19 18:25:51,349 judge_handler Submission acknowledged: 27
+INFO 2024-10-19 18:25:51,362 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:51,364 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:51,366 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:51,368 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:51,478 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:51,480 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:51,490 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:51,492 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:51,496 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:51,498 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:25:54,240 judge_handler judge01: Submission generated compiler messages: 27
+INFO 2024-10-19 18:25:54,245 judge_handler judge01: Grading has begun on: 27
+INFO 2024-10-19 18:25:54,343 judge_handler judge01: 6 test case(s) completed on: 27
+INFO 2024-10-19 18:25:54,448 judge_handler judge01: 8 test case(s) completed on: 27
+INFO 2024-10-19 18:25:54,466 judge_handler judge01: Grading has ended on: 27
+INFO 2024-10-19 18:25:54,466 judge_list Judge available after grading 27: judge01
+INFO 2024-10-19 18:25:54,489 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:25:54,490 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:26:26,615 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:26:26,618 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:26:26,622 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:26:26,624 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:26:26,625 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:26:26,627 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:54,755 judge_list Free judges: 1
+INFO 2024-10-19 18:27:54,756 judge_list Dispatched submission 28 to: judge01
+INFO 2024-10-19 18:27:54,768 judge_handler Submission acknowledged: 28
+INFO 2024-10-19 18:27:54,780 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:54,782 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:54,787 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:54,789 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:54,919 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:54,921 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:54,925 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:54,927 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:54,928 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:54,930 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:27:57,600 judge_handler judge01: Submission generated compiler messages: 28
+INFO 2024-10-19 18:27:57,603 judge_handler judge01: Grading has begun on: 28
+INFO 2024-10-19 18:27:57,784 judge_handler judge01: 13 test case(s) completed on: 28
+INFO 2024-10-19 18:27:57,794 judge_handler judge01: 1 test case(s) completed on: 28
+INFO 2024-10-19 18:27:57,800 judge_handler judge01: Grading has ended on: 28
+INFO 2024-10-19 18:27:57,801 judge_list Judge available after grading 28: judge01
+INFO 2024-10-19 18:27:57,820 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:27:57,822 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:50,468 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:50,471 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:50,473 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:50,474 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,264 judge_list Free judges: 1
+INFO 2024-10-19 18:32:55,264 judge_list Dispatched submission 29 to: judge01
+INFO 2024-10-19 18:32:55,276 judge_handler Submission acknowledged: 29
+INFO 2024-10-19 18:32:55,294 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,296 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,299 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,300 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,402 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,404 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,405 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,406 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,410 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,412 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:55,414 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:55,415 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:32:58,149 judge_handler judge01: Submission generated compiler messages: 29
+INFO 2024-10-19 18:32:58,153 judge_handler judge01: Grading has begun on: 29
+INFO 2024-10-19 18:32:58,269 judge_handler judge01: 9 test case(s) completed on: 29
+INFO 2024-10-19 18:32:58,329 judge_handler judge01: 5 test case(s) completed on: 29
+INFO 2024-10-19 18:32:58,336 judge_handler judge01: Grading has ended on: 29
+INFO 2024-10-19 18:32:58,337 judge_list Judge available after grading 29: judge01
+INFO 2024-10-19 18:32:58,356 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:32:58,358 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:24,858 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:24,862 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:24,864 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:24,866 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:24,868 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:24,870 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:28,835 judge_list Free judges: 1
+INFO 2024-10-19 18:43:28,835 judge_list Dispatched submission 30 to: judge01
+INFO 2024-10-19 18:43:28,844 judge_handler Submission acknowledged: 30
+INFO 2024-10-19 18:43:28,862 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:28,864 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:28,868 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:28,870 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:28,984 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:28,986 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:28,990 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:28,992 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:28,994 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:28,997 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:31,809 judge_handler judge01: Submission generated compiler messages: 30
+INFO 2024-10-19 18:43:31,816 judge_handler judge01: Grading has begun on: 30
+INFO 2024-10-19 18:43:31,951 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:31,953 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:31,954 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:31,956 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:31,956 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:31,957 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:31,958 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:31,959 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:32,013 judge_handler judge01: 14 test case(s) completed on: 30
+INFO 2024-10-19 18:43:32,022 judge_handler judge01: Grading has ended on: 30
+INFO 2024-10-19 18:43:32,022 judge_list Judge available after grading 30: judge01
+INFO 2024-10-19 18:43:32,044 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:32,046 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:32,602 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:32,604 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:32,607 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:32,609 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:32,611 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:32,612 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:44,236 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:44,238 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:43:44,239 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:43:44,241 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:11,916 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:11,918 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:11,919 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:11,920 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:11,964 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:11,967 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:11,968 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:11,970 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:12,095 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:12,098 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:20,954 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:20,956 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:20,958 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:20,961 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:20,962 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:20,964 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:23,920 judge_list Free judges: 1
+INFO 2024-10-19 18:44:23,921 judge_list Dispatched submission 31 to: judge01
+INFO 2024-10-19 18:44:23,932 judge_handler Submission acknowledged: 31
+INFO 2024-10-19 18:44:23,960 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:23,962 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:23,964 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:23,966 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:24,077 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:24,080 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:24,081 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:24,082 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:24,083 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:24,085 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:24,088 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:24,090 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:26,904 judge_handler judge01: Submission generated compiler messages: 31
+INFO 2024-10-19 18:44:26,907 judge_handler judge01: Grading has begun on: 31
+INFO 2024-10-19 18:44:27,036 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,039 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,040 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,041 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,042 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,044 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,045 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,046 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,103 judge_handler judge01: 14 test case(s) completed on: 31
+INFO 2024-10-19 18:44:27,113 judge_handler judge01: Grading has ended on: 31
+INFO 2024-10-19 18:44:27,113 judge_list Judge available after grading 31: judge01
+INFO 2024-10-19 18:44:27,134 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,135 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,680 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,682 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,684 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,686 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:27,686 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:27,688 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:43,449 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:43,451 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:55,679 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:55,681 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:55,721 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:55,723 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:55,723 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:55,725 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:44:55,845 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:44:55,848 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:45:52,927 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:45:52,930 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:46:33,068 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:46:33,070 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:46:33,071 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:46:33,072 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:49:08,331 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:49:08,334 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:49:08,335 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:49:08,337 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:49:08,341 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:49:08,343 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:04,129 judge_list Free judges: 1
+INFO 2024-10-19 18:57:04,130 judge_list Dispatched submission 32 to: judge01
+INFO 2024-10-19 18:57:04,141 judge_handler Submission acknowledged: 32
+INFO 2024-10-19 18:57:04,155 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:04,157 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:04,161 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:04,162 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:07,539 judge_handler judge01: Submission generated compiler messages: 32
+INFO 2024-10-19 18:57:07,542 judge_handler judge01: Grading has begun on: 32
+INFO 2024-10-19 18:57:07,628 judge_handler judge01: 6 test case(s) completed on: 32
+INFO 2024-10-19 18:57:07,748 judge_handler judge01: 8 test case(s) completed on: 32
+INFO 2024-10-19 18:57:07,753 judge_handler judge01: Grading has ended on: 32
+INFO 2024-10-19 18:57:07,754 judge_list Judge available after grading 32: judge01
+INFO 2024-10-19 18:57:07,778 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:07,780 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:24,780 judge_list Free judges: 1
+INFO 2024-10-19 18:57:24,781 judge_list Dispatched submission 33 to: judge01
+INFO 2024-10-19 18:57:24,789 judge_handler Submission acknowledged: 33
+INFO 2024-10-19 18:57:24,797 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:24,799 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:24,800 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:24,801 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:27,550 judge_handler judge01: Submission generated compiler messages: 33
+INFO 2024-10-19 18:57:27,555 judge_handler judge01: Grading has begun on: 33
+INFO 2024-10-19 18:57:27,659 judge_handler judge01: 8 test case(s) completed on: 33
+INFO 2024-10-19 18:57:27,721 judge_handler judge01: 6 test case(s) completed on: 33
+INFO 2024-10-19 18:57:27,725 judge_handler judge01: Grading has ended on: 33
+INFO 2024-10-19 18:57:27,725 judge_list Judge available after grading 33: judge01
+INFO 2024-10-19 18:57:27,748 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:27,750 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:46,065 judge_list Free judges: 1
+INFO 2024-10-19 18:57:46,065 judge_list Dispatched submission 34 to: judge01
+INFO 2024-10-19 18:57:46,075 judge_handler Submission acknowledged: 34
+INFO 2024-10-19 18:57:46,095 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:46,099 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:46,100 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:46,102 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:57:48,731 judge_handler judge01: Submission generated compiler messages: 34
+INFO 2024-10-19 18:57:48,736 judge_handler judge01: Grading has begun on: 34
+INFO 2024-10-19 18:57:48,904 judge_handler judge01: 14 test case(s) completed on: 34
+INFO 2024-10-19 18:57:48,909 judge_handler judge01: Grading has ended on: 34
+INFO 2024-10-19 18:57:48,909 judge_list Judge available after grading 34: judge01
+INFO 2024-10-19 18:57:48,928 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:57:48,929 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:09,420 judge_list Free judges: 1
+INFO 2024-10-19 18:58:09,420 judge_list Dispatched submission 35 to: judge01
+INFO 2024-10-19 18:58:09,432 judge_handler Submission acknowledged: 35
+INFO 2024-10-19 18:58:09,452 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:09,454 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:09,455 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:09,456 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:09,460 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:09,462 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:12,356 judge_handler judge01: Submission generated compiler messages: 35
+INFO 2024-10-19 18:58:12,360 judge_handler judge01: Grading has begun on: 35
+INFO 2024-10-19 18:58:12,487 judge_handler judge01: 9 test case(s) completed on: 35
+INFO 2024-10-19 18:58:12,565 judge_handler judge01: 5 test case(s) completed on: 35
+INFO 2024-10-19 18:58:12,573 judge_handler judge01: Grading has ended on: 35
+INFO 2024-10-19 18:58:12,573 judge_list Judge available after grading 35: judge01
+INFO 2024-10-19 18:58:12,605 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:12,607 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:27,914 judge_list Free judges: 1
+INFO 2024-10-19 18:58:27,914 judge_list Dispatched submission 36 to: judge01
+INFO 2024-10-19 18:58:27,927 judge_handler Submission acknowledged: 36
+INFO 2024-10-19 18:58:27,936 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:27,938 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:27,938 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:27,939 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 18:58:30,676 judge_handler judge01: Submission generated compiler messages: 36
+INFO 2024-10-19 18:58:30,679 judge_handler judge01: Grading has begun on: 36
+INFO 2024-10-19 18:58:30,765 judge_handler judge01: 5 test case(s) completed on: 36
+INFO 2024-10-19 18:58:30,901 judge_handler judge01: 9 test case(s) completed on: 36
+INFO 2024-10-19 18:58:30,913 judge_handler judge01: Grading has ended on: 36
+INFO 2024-10-19 18:58:30,914 judge_list Judge available after grading 36: judge01
+INFO 2024-10-19 18:58:30,942 judge_handler judge01: Updating problem list
+INFO 2024-10-19 18:58:30,945 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:03,402 judge_list Free judges: 1
+INFO 2024-10-19 19:00:03,404 judge_list Dispatched submission 37 to: judge01
+INFO 2024-10-19 19:00:03,428 judge_handler Submission acknowledged: 37
+INFO 2024-10-19 19:00:03,445 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:00:03,447 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:03,448 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:00:03,449 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:06,450 judge_handler judge01: Submission failed to compile: 37
+INFO 2024-10-19 19:00:06,450 judge_list Judge available after grading 37: judge01
+INFO 2024-10-19 19:00:06,456 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:00:06,457 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:31,763 judge_list Free judges: 1
+INFO 2024-10-19 19:00:31,763 judge_list Dispatched submission 38 to: judge01
+INFO 2024-10-19 19:00:31,772 judge_handler Submission acknowledged: 38
+INFO 2024-10-19 19:00:31,783 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:00:31,785 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:31,786 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:00:31,787 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:00:34,374 judge_handler judge01: Submission generated compiler messages: 38
+INFO 2024-10-19 19:00:34,377 judge_handler judge01: Grading has begun on: 38
+INFO 2024-10-19 19:00:38,465 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:00:42,477 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:00:46,483 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:00:50,488 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:00:53,493 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:00:57,504 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:01,513 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:05,527 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:09,533 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:13,542 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:16,878 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:16,881 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:16,884 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:16,887 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:16,888 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:16,890 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:17,550 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:19,636 judge_list Free judges: 0
+INFO 2024-10-19 19:01:19,636 judge_list Queued submission: 39
+INFO 2024-10-19 19:01:19,755 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:19,756 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:19,758 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:19,759 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:19,765 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:19,767 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:19,771 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:19,773 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:21,558 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:25,567 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:29,540 judge_handler judge01: 1 test case(s) completed on: 38
+INFO 2024-10-19 19:01:29,555 judge_handler judge01: Grading has ended on: 38
+INFO 2024-10-19 19:01:29,555 judge_list Judge available after grading 38: judge01
+INFO 2024-10-19 19:01:29,567 judge_list Dispatched queued submission 39: judge01
+INFO 2024-10-19 19:01:29,590 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,592 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,592 judge_handler Submission acknowledged: 39
+INFO 2024-10-19 19:01:29,602 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,604 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,605 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,606 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,728 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,730 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,731 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,733 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,734 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,735 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:29,738 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:29,739 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:32,346 judge_handler judge01: Submission generated compiler messages: 39
+INFO 2024-10-19 19:01:32,349 judge_handler judge01: Grading has begun on: 39
+INFO 2024-10-19 19:01:32,472 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:32,474 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:32,478 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:32,480 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:32,482 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:32,483 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:32,556 judge_handler judge01: 14 test case(s) completed on: 39
+INFO 2024-10-19 19:01:32,568 judge_handler judge01: Grading has ended on: 39
+INFO 2024-10-19 19:01:32,569 judge_list Judge available after grading 39: judge01
+INFO 2024-10-19 19:01:32,588 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:32,589 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:33,110 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:33,112 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:33,116 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:33,118 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:01:33,124 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:01:33,125 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:03:11,420 judge_list Free judges: 1
+INFO 2024-10-19 19:03:11,421 judge_list Dispatched submission 40 to: judge01
+INFO 2024-10-19 19:03:11,430 judge_handler Submission acknowledged: 40
+INFO 2024-10-19 19:03:11,443 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:03:11,445 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:03:11,445 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:03:11,446 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:03:14,208 judge_handler judge01: Submission generated compiler messages: 40
+INFO 2024-10-19 19:03:14,211 judge_handler judge01: Grading has begun on: 40
+INFO 2024-10-19 19:03:14,267 judge_handler judge01: 3 test case(s) completed on: 40
+INFO 2024-10-19 19:03:14,411 judge_handler judge01: 11 test case(s) completed on: 40
+INFO 2024-10-19 19:03:14,419 judge_handler judge01: Grading has ended on: 40
+INFO 2024-10-19 19:03:14,419 judge_list Judge available after grading 40: judge01
+INFO 2024-10-19 19:03:14,441 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:03:14,443 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:20:59,239 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:20:59,242 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:20:59,243 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:20:59,244 judge_handler judge01: Updated 1 problems
+INFO 2024-10-19 19:20:59,245 judge_handler judge01: Updating problem list
+INFO 2024-10-19 19:20:59,247 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:02,421 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:02,435 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:02,440 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:02,443 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:02,445 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:02,448 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:14,114 judge_list Free judges: 1
+INFO 2024-10-20 04:21:14,114 judge_list Dispatched submission 41 to: judge01
+INFO 2024-10-20 04:21:14,126 judge_handler Submission acknowledged: 41
+INFO 2024-10-20 04:21:14,144 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:14,146 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:14,152 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:14,154 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:14,252 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:14,254 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:14,256 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:14,258 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:14,259 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:14,261 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:17,568 judge_handler judge01: Submission generated compiler messages: 41
+INFO 2024-10-20 04:21:17,573 judge_handler judge01: Grading has begun on: 41
+INFO 2024-10-20 04:21:17,707 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:17,710 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:17,712 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:17,714 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:17,716 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:17,718 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:17,722 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:17,725 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:17,774 judge_handler judge01: 11 test case(s) completed on: 41
+INFO 2024-10-20 04:21:17,803 judge_handler judge01: 3 test case(s) completed on: 41
+INFO 2024-10-20 04:21:17,811 judge_handler judge01: Grading has ended on: 41
+INFO 2024-10-20 04:21:17,812 judge_list Judge available after grading 41: judge01
+INFO 2024-10-20 04:21:17,842 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:17,845 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:18,360 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:18,362 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:18,365 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:18,366 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 04:21:18,368 judge_handler judge01: Updating problem list
+INFO 2024-10-20 04:21:18,369 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 05:41:32,682 judge_list Free judges: 1
+INFO 2024-10-20 05:41:32,684 judge_list Dispatched submission 42 to: judge01
+INFO 2024-10-20 05:41:32,696 judge_handler Submission acknowledged: 42
+INFO 2024-10-20 05:41:32,713 judge_handler judge01: Updating problem list
+INFO 2024-10-20 05:41:32,714 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 05:41:32,715 judge_handler judge01: Updating problem list
+INFO 2024-10-20 05:41:32,717 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 05:41:32,722 judge_handler judge01: Updating problem list
+INFO 2024-10-20 05:41:32,725 judge_handler judge01: Updated 1 problems
+INFO 2024-10-20 05:41:36,528 judge_handler judge01: Submission generated compiler messages: 42
+INFO 2024-10-20 05:41:36,531 judge_handler judge01: Grading has begun on: 42
+INFO 2024-10-20 05:41:36,586 judge_handler judge01: 3 test case(s) completed on: 42
+INFO 2024-10-20 05:41:36,747 judge_handler judge01: 11 test case(s) completed on: 42
+INFO 2024-10-20 05:41:36,758 judge_handler judge01: Grading has ended on: 42
+INFO 2024-10-20 05:41:36,759 judge_list Judge available after grading 42: judge01
+INFO 2024-10-20 05:41:36,779 judge_handler judge01: Updating problem list
+INFO 2024-10-20 05:41:36,780 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:43:47,166 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:43:47,172 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:43:47,173 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:43:47,174 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:56:07,280 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:56:07,290 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:56:07,292 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:56:07,293 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:56:07,294 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:56:07,296 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 05:56:07,300 judge_handler judge01: Updating problem list
+INFO 2024-10-21 05:56:07,301 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,212 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,222 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,224 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,226 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,227 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,228 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,229 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,230 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,980 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,982 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,984 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,985 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,991 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,993 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:27,996 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:27,999 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:28,001 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:28,002 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:28,003 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:28,005 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:28,006 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:28,007 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:28,258 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:28,261 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:31,873 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:31,875 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:35,088 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:35,090 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:35,910 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:35,912 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:36,350 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:36,352 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:45:37,508 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:45:37,512 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:54:54,222 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:54:54,228 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:54:54,229 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:54:54,231 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:54:54,232 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:54:54,234 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 07:54:54,234 judge_handler judge01: Updating problem list
+INFO 2024-10-21 07:54:54,236 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:23:58,145 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:23:58,148 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:23:59,561 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:23:59,564 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:23:59,913 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:23:59,915 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:23:59,916 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:23:59,919 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:23:59,926 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:23:59,928 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:00,623 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:00,627 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:00,631 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:00,635 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:00,657 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:00,659 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:00,661 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:00,662 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:01,280 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:01,283 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:01,288 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:01,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:01,296 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:01,299 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:01,616 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:01,619 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:01,621 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:01,624 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:04,153 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:04,156 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:04,157 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:04,160 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:05,722 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:05,724 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:24:05,726 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:24:05,727 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:36:15,921 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:36:15,926 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:36:15,927 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:36:15,930 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:36:15,931 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:36:15,933 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:37:49,911 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:37:49,914 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:47:33,663 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:47:33,667 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 08:47:33,668 judge_handler judge01: Updating problem list
+INFO 2024-10-21 08:47:33,669 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:13:38,860 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:13:38,864 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:13:43,652 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:13:43,657 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:23:43,880 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:23:43,885 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:31,825 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:31,830 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:31,831 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:31,833 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:31,835 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:31,837 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:31,838 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:31,840 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:36,246 judge_list Free judges: 1
+INFO 2024-10-21 09:25:36,247 judge_list Dispatched submission 43 to: judge01
+INFO 2024-10-21 09:25:36,262 judge_handler Submission acknowledged: 43
+INFO 2024-10-21 09:25:36,290 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:36,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:36,294 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:36,296 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:36,407 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:36,409 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:36,412 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:36,414 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:36,415 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:36,417 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:39,771 judge_handler judge01: Submission generated compiler messages: 43
+INFO 2024-10-21 09:25:39,774 judge_handler judge01: Grading has begun on: 43
+INFO 2024-10-21 09:25:39,902 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:39,905 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:39,911 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:39,914 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:39,918 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:39,920 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:39,993 judge_handler judge01: 14 test case(s) completed on: 43
+INFO 2024-10-21 09:25:40,007 judge_handler judge01: Grading has ended on: 43
+INFO 2024-10-21 09:25:40,008 judge_list Judge available after grading 43: judge01
+INFO 2024-10-21 09:25:40,053 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:40,055 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:40,556 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:40,558 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:40,559 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:40,561 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:40,564 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:40,566 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:40,568 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:40,571 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,108 judge_list Free judges: 1
+INFO 2024-10-21 09:25:51,109 judge_list Dispatched submission 43 to: judge01
+INFO 2024-10-21 09:25:51,119 judge_handler Submission acknowledged: 43
+INFO 2024-10-21 09:25:51,126 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,128 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,129 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,130 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,244 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,246 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,258 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,261 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,267 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,270 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,280 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,284 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,287 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,289 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,291 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,293 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,294 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:51,297 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:51,300 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:53,944 judge_handler judge01: Submission generated compiler messages: 43
+INFO 2024-10-21 09:25:53,951 judge_handler judge01: Grading has begun on: 43
+INFO 2024-10-21 09:25:54,031 judge_handler judge01: 5 test case(s) completed on: 43
+INFO 2024-10-21 09:25:54,085 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,088 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,090 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,094 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,096 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,098 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,163 judge_handler judge01: 9 test case(s) completed on: 43
+INFO 2024-10-21 09:25:54,171 judge_handler judge01: Grading has ended on: 43
+INFO 2024-10-21 09:25:54,172 judge_list Judge available after grading 43: judge01
+INFO 2024-10-21 09:25:54,197 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,199 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,746 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,749 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,752 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,754 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:25:54,755 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:25:54,756 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:56:48,009 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:56:48,016 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:56:48,018 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:56:48,021 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:56:48,023 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:56:48,025 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 09:56:48,027 judge_handler judge01: Updating problem list
+INFO 2024-10-21 09:56:48,029 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:12:16,574 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:12:16,579 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:12:16,580 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:12:16,581 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,405 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,409 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,410 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,412 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,414 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,421 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,423 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,426 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,428 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,430 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,432 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,434 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,435 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,436 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:39,437 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:39,438 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:40,715 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:40,717 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,290 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,293 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,295 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,298 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,300 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,305 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,308 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,534 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,537 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,538 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,540 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,541 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,542 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,858 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,860 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,861 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,862 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,863 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,864 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:41,865 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:41,866 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:44,227 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:44,230 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:44,232 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:44,244 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:18:44,630 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:18:44,633 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:37:31,773 judge_list Free judges: 1
+INFO 2024-10-21 10:37:31,773 judge_list Dispatched submission 44 to: judge01
+INFO 2024-10-21 10:37:31,782 judge_handler Submission acknowledged: 44
+INFO 2024-10-21 10:37:31,797 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:37:31,799 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:37:31,801 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:37:31,802 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 10:37:35,833 judge_handler judge01: Submission generated compiler messages: 44
+INFO 2024-10-21 10:37:35,836 judge_handler judge01: Grading has begun on: 44
+INFO 2024-10-21 10:37:36,011 judge_handler judge01: 14 test case(s) completed on: 44
+INFO 2024-10-21 10:37:36,019 judge_handler judge01: Grading has ended on: 44
+INFO 2024-10-21 10:37:36,020 judge_list Judge available after grading 44: judge01
+INFO 2024-10-21 10:37:36,048 judge_handler judge01: Updating problem list
+INFO 2024-10-21 10:37:36,050 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:50,309 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:50,318 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:50,320 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:50,322 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:50,324 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:50,325 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:50,327 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:50,328 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:50,998 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:51,001 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:51,004 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:51,006 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:51,008 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:51,010 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:52,016 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:52,019 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:52,021 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:52,023 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:53,557 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:53,559 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:53,563 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:53,564 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:53,567 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:53,568 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:03:54,152 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:03:54,154 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,522 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,525 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,933 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,936 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,937 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,940 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,942 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,949 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,952 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,954 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,955 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,957 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,958 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,960 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:04:38,961 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:04:38,963 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:26,723 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:26,731 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:33,183 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:33,187 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:33,188 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:33,190 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:42,285 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:42,287 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:42,290 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:42,292 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:42,293 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:42,294 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:44,427 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:44,429 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:33:44,430 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:33:44,432 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:44:11,701 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:11,706 judge_handler judge01: Updated 1 problems
+INFO 2024-10-21 13:44:11,716 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:11,725 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:11,727 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:11,729 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:11,843 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:11,846 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:14,897 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:14,899 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:14,908 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:14,912 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:14,916 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:14,918 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:15,033 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:15,037 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:15,039 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:15,041 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:44:43,681 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:44:43,683 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:48:40,103 judge_list Free judges: 1
+INFO 2024-10-21 13:48:40,106 judge_list Dispatched submission 45 to: judge01
+INFO 2024-10-21 13:48:40,117 judge_handler Submission acknowledged: 45
+INFO 2024-10-21 13:48:40,147 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:48:40,149 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:48:40,151 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:48:40,152 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:48:44,409 judge_handler judge01: Submission generated compiler messages: 45
+INFO 2024-10-21 13:48:44,413 judge_handler judge01: Grading has begun on: 45
+INFO 2024-10-21 13:48:44,427 judge_handler judge01: 1 test case(s) completed on: 45
+INFO 2024-10-21 13:48:44,438 judge_handler judge01: Grading has ended on: 45
+INFO 2024-10-21 13:48:44,439 judge_list Judge available after grading 45: judge01
+INFO 2024-10-21 13:48:44,467 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:48:44,469 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:49:02,832 judge_list Free judges: 1
+INFO 2024-10-21 13:49:02,832 judge_list Dispatched submission 46 to: judge01
+INFO 2024-10-21 13:49:02,844 judge_handler Submission acknowledged: 46
+INFO 2024-10-21 13:49:02,860 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:49:02,862 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:49:06,309 judge_handler judge01: Submission generated compiler messages: 46
+INFO 2024-10-21 13:49:06,313 judge_handler judge01: Grading has begun on: 46
+INFO 2024-10-21 13:49:06,321 judge_handler judge01: 1 test case(s) completed on: 46
+INFO 2024-10-21 13:49:06,327 judge_handler judge01: Grading has ended on: 46
+INFO 2024-10-21 13:49:06,328 judge_list Judge available after grading 46: judge01
+INFO 2024-10-21 13:49:06,363 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:49:06,365 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:51:42,592 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:51:42,595 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:52:11,738 judge_list Free judges: 1
+INFO 2024-10-21 13:52:11,739 judge_list Dispatched submission 47 to: judge01
+INFO 2024-10-21 13:52:11,748 judge_handler Submission acknowledged: 47
+INFO 2024-10-21 13:52:11,762 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:52:11,764 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:52:11,765 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:52:11,767 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 13:52:15,537 judge_handler judge01: Submission generated compiler messages: 47
+INFO 2024-10-21 13:52:15,540 judge_handler judge01: Grading has begun on: 47
+INFO 2024-10-21 13:52:15,557 judge_handler judge01: 1 test case(s) completed on: 47
+INFO 2024-10-21 13:52:15,566 judge_handler judge01: Grading has ended on: 47
+INFO 2024-10-21 13:52:15,566 judge_list Judge available after grading 47: judge01
+INFO 2024-10-21 13:52:15,597 judge_handler judge01: Updating problem list
+INFO 2024-10-21 13:52:15,598 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 14:43:50,193 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:43:50,197 judge_handler judge01: Updated 2 problems
+INFO 2024-10-21 14:43:50,209 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:43:50,220 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:43:50,342 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:43:50,345 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,017 judge_list Free judges: 1
+INFO 2024-10-21 14:48:30,019 judge_list Dispatched submission 48 to: judge01
+INFO 2024-10-21 14:48:30,031 judge_handler Submission acknowledged: 48
+INFO 2024-10-21 14:48:30,049 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,051 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,053 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,054 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,055 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,058 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,209 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,212 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,215 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,216 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,218 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,219 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:30,221 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:30,222 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:31,866 judge_handler judge01: Submission generated compiler messages: 48
+INFO 2024-10-21 14:48:31,870 judge_handler judge01: Grading has begun on: 48
+INFO 2024-10-21 14:48:31,968 judge_handler judge01: 5 test case(s) completed on: 48
+INFO 2024-10-21 14:48:31,980 judge_handler judge01: Grading has ended on: 48
+INFO 2024-10-21 14:48:31,980 judge_list Judge available after grading 48: judge01
+INFO 2024-10-21 14:48:31,996 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:31,999 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,125 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,129 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,131 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,137 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,140 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,142 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,900 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,903 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,904 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,908 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 14:48:32,911 judge_handler judge01: Updating problem list
+INFO 2024-10-21 14:48:32,913 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 15:13:44,126 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:13:44,131 judge_handler judge01: Updated 3 problems
+INFO 2024-10-21 15:13:44,147 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:13:44,159 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:13:44,277 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:13:44,279 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:09,187 judge_list Free judges: 1
+INFO 2024-10-21 15:15:09,189 judge_list Dispatched submission 49 to: judge01
+INFO 2024-10-21 15:15:09,212 judge_handler Submission acknowledged: 49
+INFO 2024-10-21 15:15:09,228 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:09,234 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:09,237 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:09,240 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:09,350 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:09,353 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:09,355 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:09,358 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:10,687 judge_handler judge01: Submission generated compiler messages: 49
+INFO 2024-10-21 15:15:10,690 judge_handler judge01: Grading has begun on: 49
+INFO 2024-10-21 15:15:10,778 judge_handler judge01: 5 test case(s) completed on: 49
+INFO 2024-10-21 15:15:10,784 judge_handler judge01: Grading has ended on: 49
+INFO 2024-10-21 15:15:10,785 judge_list Judge available after grading 49: judge01
+INFO 2024-10-21 15:15:10,800 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:10,802 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:10,871 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:10,876 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:10,879 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:10,882 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:10,883 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:10,886 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:11,529 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:11,533 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:11,534 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:11,536 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:11,537 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:11,539 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:11,540 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:11,541 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:57,051 judge_list Free judges: 1
+INFO 2024-10-21 15:15:57,051 judge_list Dispatched submission 50 to: judge01
+INFO 2024-10-21 15:15:57,060 judge_handler Submission acknowledged: 50
+INFO 2024-10-21 15:15:57,068 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:57,070 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:57,071 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:57,075 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:57,196 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:57,198 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:57,199 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:57,201 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:57,202 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:57,205 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:58,388 judge_handler judge01: Submission generated compiler messages: 50
+INFO 2024-10-21 15:15:58,392 judge_handler judge01: Grading has begun on: 50
+INFO 2024-10-21 15:15:58,455 judge_handler judge01: 5 test case(s) completed on: 50
+INFO 2024-10-21 15:15:58,461 judge_handler judge01: Grading has ended on: 50
+INFO 2024-10-21 15:15:58,462 judge_list Judge available after grading 50: judge01
+INFO 2024-10-21 15:15:58,474 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:58,475 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:58,538 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:58,540 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:58,541 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:58,542 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:58,544 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:58,546 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:58,547 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:58,548 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:59,205 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:59,208 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:59,210 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:59,211 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:15:59,213 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:15:59,216 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:26:07,920 judge_list Free judges: 1
+INFO 2024-10-21 15:26:07,920 judge_list Dispatched submission 51 to: judge01
+INFO 2024-10-21 15:26:07,945 judge_handler Submission acknowledged: 51
+INFO 2024-10-21 15:26:08,001 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:26:08,004 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:26:08,005 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:26:08,008 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:26:09,821 judge_handler judge01: Submission generated compiler messages: 51
+INFO 2024-10-21 15:26:09,824 judge_handler judge01: Grading has begun on: 51
+INFO 2024-10-21 15:26:09,913 judge_handler judge01: 5 test case(s) completed on: 51
+INFO 2024-10-21 15:26:09,924 judge_handler judge01: Grading has ended on: 51
+INFO 2024-10-21 15:26:09,925 judge_list Judge available after grading 51: judge01
+INFO 2024-10-21 15:26:09,970 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:26:09,972 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,491 judge_list Free judges: 1
+INFO 2024-10-21 15:31:14,493 judge_list Dispatched submission 52 to: judge01
+INFO 2024-10-21 15:31:14,506 judge_handler Submission acknowledged: 52
+INFO 2024-10-21 15:31:14,529 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,533 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,536 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,539 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,541 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,543 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,659 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,661 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,664 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,665 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:14,672 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:14,675 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:18,277 judge_handler judge01: Submission generated compiler messages: 52
+INFO 2024-10-21 15:31:18,288 judge_handler judge01: Grading has begun on: 52
+INFO 2024-10-21 15:31:18,300 judge_handler judge01: 1 test case(s) completed on: 52
+INFO 2024-10-21 15:31:18,306 judge_handler judge01: Grading has ended on: 52
+INFO 2024-10-21 15:31:18,307 judge_list Judge available after grading 52: judge01
+INFO 2024-10-21 15:31:18,329 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:18,331 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:18,419 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:18,421 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:18,422 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:18,424 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:18,426 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:18,428 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:19,069 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:19,072 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:19,073 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:19,076 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 15:31:19,077 judge_handler judge01: Updating problem list
+INFO 2024-10-21 15:31:19,080 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:02:40,797 judge_list Free judges: 1
+INFO 2024-10-21 16:02:40,799 judge_list Dispatched submission 53 to: judge01
+INFO 2024-10-21 16:02:40,812 judge_handler Submission acknowledged: 53
+INFO 2024-10-21 16:02:40,830 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:02:40,833 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:02:40,835 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:02:40,837 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:02:40,846 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:02:40,848 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:02:42,383 judge_handler judge01: Submission generated compiler messages: 53
+INFO 2024-10-21 16:02:42,387 judge_handler judge01: Grading has begun on: 53
+INFO 2024-10-21 16:02:42,508 judge_handler judge01: 7 test case(s) completed on: 53
+INFO 2024-10-21 16:02:42,612 judge_handler judge01: 7 test case(s) completed on: 53
+INFO 2024-10-21 16:02:42,625 judge_handler judge01: Grading has ended on: 53
+INFO 2024-10-21 16:02:42,625 judge_list Judge available after grading 53: judge01
+INFO 2024-10-21 16:02:42,657 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:02:42,659 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:04:33,830 judge_list Free judges: 1
+INFO 2024-10-21 16:04:33,830 judge_list Dispatched submission 54 to: judge01
+INFO 2024-10-21 16:04:33,838 judge_handler Submission acknowledged: 54
+INFO 2024-10-21 16:04:33,857 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:04:33,859 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:04:33,860 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:04:33,862 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:04:35,093 judge_handler judge01: Submission generated compiler messages: 54
+INFO 2024-10-21 16:04:35,096 judge_handler judge01: Grading has begun on: 54
+INFO 2024-10-21 16:04:35,108 judge_handler judge01: 1 test case(s) completed on: 54
+INFO 2024-10-21 16:04:35,115 judge_handler judge01: Grading has ended on: 54
+INFO 2024-10-21 16:04:35,116 judge_list Judge available after grading 54: judge01
+INFO 2024-10-21 16:04:35,143 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:04:35,145 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:27:08,765 judge_list Free judges: 1
+INFO 2024-10-21 16:27:08,766 judge_list Dispatched submission 55 to: judge01
+INFO 2024-10-21 16:27:08,779 judge_handler Submission acknowledged: 55
+INFO 2024-10-21 16:27:08,802 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:27:08,804 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:27:08,806 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:27:08,807 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 16:27:10,264 judge_handler judge01: Submission generated compiler messages: 55
+INFO 2024-10-21 16:27:10,267 judge_handler judge01: Grading has begun on: 55
+INFO 2024-10-21 16:27:10,357 judge_handler judge01: 5 test case(s) completed on: 55
+INFO 2024-10-21 16:27:10,365 judge_handler judge01: Grading has ended on: 55
+INFO 2024-10-21 16:27:10,365 judge_list Judge available after grading 55: judge01
+INFO 2024-10-21 16:27:10,389 judge_handler judge01: Updating problem list
+INFO 2024-10-21 16:27:10,391 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 17:41:30,580 judge_handler judge01: Updating problem list
+INFO 2024-10-21 17:41:30,587 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 17:41:30,589 judge_handler judge01: Updating problem list
+INFO 2024-10-21 17:41:30,591 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 17:41:30,592 judge_handler judge01: Updating problem list
+INFO 2024-10-21 17:41:30,594 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 17:41:30,595 judge_handler judge01: Updating problem list
+INFO 2024-10-21 17:41:30,597 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 18:45:07,088 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:07,094 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 18:45:07,109 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:07,116 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:07,262 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:07,264 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:22,603 judge_list Free judges: 1
+INFO 2024-10-21 18:45:22,604 judge_list Dispatched submission 56 to: judge01
+INFO 2024-10-21 18:45:22,616 judge_handler Submission acknowledged: 56
+INFO 2024-10-21 18:45:22,628 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:22,630 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:22,632 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:22,634 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:22,807 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:22,810 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:22,812 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:22,820 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:22,824 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:22,826 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:26,761 judge_handler judge01: Submission generated compiler messages: 56
+INFO 2024-10-21 18:45:26,769 judge_handler judge01: Grading has begun on: 56
+INFO 2024-10-21 18:45:26,910 judge_handler judge01: 10 test case(s) completed on: 56
+INFO 2024-10-21 18:45:26,918 judge_handler judge01: Grading has ended on: 56
+INFO 2024-10-21 18:45:26,918 judge_list Judge available after grading 56: judge01
+INFO 2024-10-21 18:45:26,937 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:26,940 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,086 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,089 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,094 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,097 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,100 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,102 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,749 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,753 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,754 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,757 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:45:27,759 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:45:27,760 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:49:50,736 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:49:50,741 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:49:50,743 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:49:50,744 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:00,983 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:00,985 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:00,987 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:00,989 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:00,990 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:00,993 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:01,018 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:01,021 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:01,022 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:01,024 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:01,216 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:01,219 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:01,221 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:01,223 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:14,648 judge_list Free judges: 1
+INFO 2024-10-21 18:50:14,649 judge_list Dispatched submission 57 to: judge01
+INFO 2024-10-21 18:50:14,657 judge_handler Submission acknowledged: 57
+INFO 2024-10-21 18:50:14,673 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:14,675 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:14,681 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:14,682 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:14,783 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:14,786 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:14,790 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:14,793 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:14,796 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:14,799 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:18,756 judge_handler judge01: Submission generated compiler messages: 57
+INFO 2024-10-21 18:50:18,759 judge_handler judge01: Grading has begun on: 57
+INFO 2024-10-21 18:50:18,881 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:18,883 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:18,888 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:18,890 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:18,892 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:18,896 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:18,920 judge_handler judge01: 11 test case(s) completed on: 57
+INFO 2024-10-21 18:50:19,057 judge_handler judge01: 9 test case(s) completed on: 57
+INFO 2024-10-21 18:50:19,062 judge_handler judge01: Grading has ended on: 57
+INFO 2024-10-21 18:50:19,062 judge_list Judge available after grading 57: judge01
+INFO 2024-10-21 18:50:19,074 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:19,075 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:19,540 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:19,542 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:19,551 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:19,553 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:50:19,555 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:50:19,558 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:31,799 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:31,803 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,391 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,394 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,395 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,397 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,408 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,413 judge_handler judge01: Updated 4 problems
+INFO 2024-10-21 18:57:41,414 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,418 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,420 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,421 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,422 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,425 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,426 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,427 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,428 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,430 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:41,567 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:41,569 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,065 judge_list Free judges: 1
+INFO 2024-10-21 18:57:58,066 judge_list Dispatched submission 58 to: judge01
+INFO 2024-10-21 18:57:58,074 judge_handler Submission acknowledged: 58
+INFO 2024-10-21 18:57:58,085 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,086 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,087 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,088 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,094 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,096 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,274 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,276 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,282 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,284 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:57:58,285 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:57:58,288 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:01,685 judge_handler judge01: Submission generated compiler messages: 58
+INFO 2024-10-21 18:58:01,689 judge_handler judge01: Grading has begun on: 58
+INFO 2024-10-21 18:58:01,841 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:01,843 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:01,848 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:01,850 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:01,852 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:01,857 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:01,899 judge_handler judge01: 11 test case(s) completed on: 58
+INFO 2024-10-21 18:58:02,133 judge_handler judge01: 9 test case(s) completed on: 58
+INFO 2024-10-21 18:58:02,141 judge_handler judge01: Grading has ended on: 58
+INFO 2024-10-21 18:58:02,141 judge_list Judge available after grading 58: judge01
+INFO 2024-10-21 18:58:02,160 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:02,163 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:03,158 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:03,160 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:03,170 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:03,173 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 18:58:03,176 judge_handler judge01: Updating problem list
+INFO 2024-10-21 18:58:03,178 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:39,914 judge_list Free judges: 1
+INFO 2024-10-21 19:00:39,915 judge_list Dispatched submission 59 to: judge01
+INFO 2024-10-21 19:00:39,926 judge_handler Submission acknowledged: 59
+INFO 2024-10-21 19:00:39,942 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:39,943 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:39,944 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:39,945 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:39,952 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:39,953 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:40,110 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:40,113 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:40,118 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:40,119 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:40,122 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:40,124 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:43,776 judge_handler judge01: Submission generated compiler messages: 59
+INFO 2024-10-21 19:00:43,782 judge_handler judge01: Grading has begun on: 59
+INFO 2024-10-21 19:00:43,930 judge_handler judge01: 3 test case(s) completed on: 59
+INFO 2024-10-21 19:00:43,944 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:43,946 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:43,953 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:43,955 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:43,958 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:43,960 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:44,757 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:44,760 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:44,764 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:44,765 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:44,773 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:44,776 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:46,937 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:00:47,095 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:47,097 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:47,100 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:47,102 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:47,105 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:47,110 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:49,947 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:00:50,102 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:50,104 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:50,109 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:50,111 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:50,113 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:50,115 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:52,957 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:00:53,111 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:53,112 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:53,116 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:53,118 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:53,122 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:53,124 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:55,959 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:00:56,110 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:56,112 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:56,114 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:56,116 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:58,963 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:00:59,096 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:59,099 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:59,104 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:59,106 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:00:59,108 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:00:59,110 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:01,974 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:02,210 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:02,212 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:02,216 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:02,218 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:02,221 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:02,222 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:04,983 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:05,132 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:05,134 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:05,135 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:05,136 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:05,142 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:05,144 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:05,149 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:05,153 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:07,987 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:08,184 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:08,186 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:08,196 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:08,199 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:08,202 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:08,205 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:10,997 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:11,150 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:11,152 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:11,153 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:11,154 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:11,156 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:11,158 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:11,160 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:11,161 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:14,003 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:14,146 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:14,149 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:14,158 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:14,160 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:14,165 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:14,168 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:17,009 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:17,182 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:17,185 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:17,190 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:17,192 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:17,195 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:17,199 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:20,017 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:20,253 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:20,255 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:20,263 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:20,265 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:20,267 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:20,269 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:23,027 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:23,168 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:23,171 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:23,172 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:23,173 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:23,175 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:23,176 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:23,179 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:23,181 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:26,034 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:26,168 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:26,170 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:26,178 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:26,181 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:26,182 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:26,185 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:29,039 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:29,182 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:29,185 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:29,188 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:29,190 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:29,204 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:29,206 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:29,216 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:29,218 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:32,046 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:32,191 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:32,193 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:32,200 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:32,202 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:32,204 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:32,206 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:35,051 judge_handler judge01: 1 test case(s) completed on: 59
+INFO 2024-10-21 19:01:35,065 judge_handler judge01: Grading has ended on: 59
+INFO 2024-10-21 19:01:35,066 judge_list Judge available after grading 59: judge01
+INFO 2024-10-21 19:01:35,096 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:35,098 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:35,249 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:35,251 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:35,252 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:35,253 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:35,257 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:35,259 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:35,262 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:35,264 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:36,066 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:36,068 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:36,071 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:36,073 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:01:36,076 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:01:36,079 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:02:19,983 judge_list Free judges: 1
+INFO 2024-10-21 19:02:19,984 judge_list Dispatched submission 60 to: judge01
+INFO 2024-10-21 19:02:19,996 judge_handler Submission acknowledged: 60
+INFO 2024-10-21 19:02:20,012 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:02:20,014 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:02:20,018 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:02:20,019 judge_handler judge01: Updated 5 problems
+INFO 2024-10-21 19:02:23,712 judge_handler judge01: Submission generated compiler messages: 60
+INFO 2024-10-21 19:02:23,716 judge_handler judge01: Grading has begun on: 60
+INFO 2024-10-21 19:02:23,886 judge_handler judge01: 3 test case(s) completed on: 60
+INFO 2024-10-21 19:02:26,893 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:29,898 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:32,907 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:35,917 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:38,923 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:41,930 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:44,937 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:47,945 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:50,953 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:53,957 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:56,962 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:02:59,968 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:02,975 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:05,981 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:08,989 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:12,008 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:14,977 judge_handler judge01: 1 test case(s) completed on: 60
+INFO 2024-10-21 19:03:14,990 judge_handler judge01: Grading has ended on: 60
+INFO 2024-10-21 19:03:14,991 judge_list Judge available after grading 60: judge01
+INFO 2024-10-21 19:03:15,038 judge_handler judge01: Updating problem list
+INFO 2024-10-21 19:03:15,040 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 01:41:26,456 judge_list Free judges: 1
+INFO 2024-10-22 01:41:26,458 judge_list Dispatched submission 61 to: judge01
+INFO 2024-10-22 01:41:26,472 judge_handler Submission acknowledged: 61
+INFO 2024-10-22 01:41:26,490 judge_handler judge01: Updating problem list
+INFO 2024-10-22 01:41:26,492 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 01:41:26,493 judge_handler judge01: Updating problem list
+INFO 2024-10-22 01:41:26,494 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 01:41:26,495 judge_handler judge01: Updating problem list
+INFO 2024-10-22 01:41:26,496 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 01:41:30,341 judge_handler judge01: Submission generated compiler messages: 61
+INFO 2024-10-22 01:41:30,344 judge_handler judge01: Grading has begun on: 61
+INFO 2024-10-22 01:41:30,447 judge_handler judge01: 8 test case(s) completed on: 61
+INFO 2024-10-22 01:41:30,525 judge_handler judge01: 6 test case(s) completed on: 61
+INFO 2024-10-22 01:41:30,533 judge_handler judge01: Grading has ended on: 61
+INFO 2024-10-22 01:41:30,534 judge_list Judge available after grading 61: judge01
+INFO 2024-10-22 01:41:30,566 judge_handler judge01: Updating problem list
+INFO 2024-10-22 01:41:30,568 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 18:14:34,556 judge_handler judge01: Updating problem list
+INFO 2024-10-22 18:14:34,576 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 18:14:34,579 judge_handler judge01: Updating problem list
+INFO 2024-10-22 18:14:34,580 judge_handler judge01: Updated 5 problems
+INFO 2024-10-22 18:14:34,581 judge_handler judge01: Updating problem list
+INFO 2024-10-22 18:14:34,583 judge_handler judge01: Updated 5 problems
