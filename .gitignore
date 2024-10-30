@@ -43,4 +43,5 @@ local_urls.py
 __pycache__/
 <desired bridge log path>
 nohup.out
+nohup2.out
 problems/
