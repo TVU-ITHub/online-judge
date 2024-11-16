@@ -42,6 +42,7 @@ fc_*
 local_urls.py
 __pycache__/
 <desired bridge log path>
+<desired bridge log path>.1
 nohup.out
 nohup2.out
 problems/

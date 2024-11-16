@@ -45,5 +45,8 @@
 
 {% block users_table %}
     {% set table_id='organization-users-table' %}
+    <div style="width: 200px;">
+        <a href="https://oj1.ithub.vn/{{ organization.slug }}" target="_blank" class="button">Chỉ tính bài trong tổ chức</a>
+    </div>
     {% include "organization/users-table.html" %}
 {% endblock %}
